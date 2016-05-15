@@ -1,0 +1,233 @@
+[
+   {
+      "id" : "jeremy-dean",
+      "name" : "Jeremy Dean",
+      "description" : "Jeremy was previously the Director of Education at Genius where he facilitated educational applications of their interactive archive of literary and historical texts. Jeremy is a scholar-educator with fifteen years of experience teaching at both the college and high school levels. He received a Ph.D. in English from the University of Texas at Austin where he worked as a Project Leader in the Digital Writing and Research Lab for four years developing units and lesson plans around a variety of digital tools. He also worked as a Program Coordinator at the University of Texas Humanities Institute, overseeing their education initiatives.\njeremydean@hypothes.is",
+      "role" : "Director of Education",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/04/01191011/Jeremy.jpg"
+   },
+   {
+      "name" : "Conor Delahunty",
+      "id" : "conor-delahunty",
+      "role" : "Designer",
+      "description" : "Conor is a designer interested in mono products and epic utilities. In recent years he has prototyped and designed a breaking news service, editor and CMS, an online radio station, a mobile first sports publication, a global education platform, and new connected health products and platforms, among other things.",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/09/28100645/conor.jpg"
+   },
+   {
+      "role" : "Developer",
+      "description" : "Christof first worked on text annotations at the eBook reading app Readmill. After a detour of working on a music video platform, he ended up back at working with the idea of annotating text at Hypothesis, as a back end developer. When all the digital technology surrounding us become too much, he likes to spend his time in an analogue photography darkroom.",
+      "name" : "Christof Dorner",
+      "id" : "christof-dorner",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2016/02/11181938/Pasted-image-at-2016_02_10-08_25-PM.png"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/03/24211748/IMG_2128_Resized-BW.jpg",
+      "description" : "Peg is an operations manager and business advisor to entrepreneurial technology companies.  Peg’s operations experience in the software industry spans over three decades, and includes work in broadband, telecommunications, financial services, transportation, and healthcare industry verticals. Peg has been responsible for driving strategic and operational planning, corporate finance, marketing, facilities management, and corporate development.  Prior to joining hypothes.is, Peg lead Operations and Project Management for Applied Broadband, Inc., the software and services firm that developed and marketed Pipeline™, cutting edge IPDR data collection and analytics software to the Tier-1 Broadband industry.",
+      "role" : "Operations / Administration",
+      "id" : "peg-fowler",
+      "name" : "Peg Fowler"
+   },
+   {
+      "id" : "lena-gunn",
+      "name" : "Lena Gunn",
+      "description" : "Lena comes from a background of Journalism and Human Rights. She studied the emergence of Open Source communities in Latin America, and later worked as a PM for cooperatives and non-profits. She co-founded SulaBatsú, a social research coop in Costa Rica. Lena was part of the team that brought Twitter to 35+ supported languages. She joined Hypothesis in 2015.",
+      "role" : "Engineering Manager",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/07/03194033/lena.jpg"
+   },
+   {
+      "role" : "Developer",
+      "description" : "Sean is a future Portuguese Water Dog owner and a developer at Hypothesis. He tries to work on open source projects that have a positive impact on the world. He has previously worked as a web developer at Open Knowledge, iOS developer at Click-East, and Java lecturer at The University of Edinburgh. For his PhD he developed a desktop app to help children create stories.",
+      "name" : "Sean Hammond",
+      "id" : "sean-hammond",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/03/12104001/Mugshot.jpeg"
+   },
+   {
+      "role" : "Developer",
+      "description" : "Rob is a front-end developer at Hypothesis.  He was previously part of the team that grew Mendeley from early betas to a service used by millions of researchers worldwide. In the process he developed an interest in efforts to make better tools for discussing and sharing science.",
+      "name" : "Robert Knight",
+      "id" : "robert-knight",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/09/28095247/rob-mugshot-2013-03-20_1-5-to-1_bw.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/04/02205349/Maryann.jpg",
+      "description" : "Maryann was most recently at UCSD, where she led the Neuroscience Information Framework (NIF), a national project to establish a uniform resource description framework for neuroscience, and the NIDDK Information Network (dknet), a portal for connecting researchers in digestive, kidney and metabolic disease to data, tools, and materials.  She served as a Co-Investigator on the Monarch Initiative, a knowledge base for linking model systems to human disease.  She is Editor-in-Chief of Brain and Behavior, and a Senior Editor at two new journals, Collabra and Nature Scientific Data.  Dr. Martone is President of FORCE11, an organization dedicated to advancing scholarly communication and e-scholarship.  Maryann Martone received her BA from Wellesley College in Biological Psychology and Ancient Greek and her Ph. D. in Neuroscience from the University of California, San Diego. She spent over 30 years at UCSD and is currently on leave from her position as Professor of Neuroscience. She started her career as a neuroanatomist, specializing in light and electron microscopy, but her main research for the past 15 years focused on informatics for neuroscience, i.e., neuroinformatics",
+      "role" : "Director of Biosciences and Scholarly Communications",
+      "id" : "maryann-martone",
+      "name" : "Maryann Martone"
+   },
+   {
+      "id" : "nick-stenning",
+      "name" : "Nick Stenning",
+      "description" : "Nick is a programmer and one of the original contributors to the\nAnnotator project. Once a physics student, he is now most interested in\nbuilding tools that help people explore and learn in the vast landscape\nof information on the web. He comes to the Hypothesis project from a\njob at Open Knowledge, and has previously worked for the UK Government\nDigital Service.",
+      "role" : "Technical Lead",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2014/09/24155846/Nick.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/03/23164008/Jon.jpg",
+      "role" : "Director of Partnerships and Implementations",
+      "description" : "Jon Udell is an author, information architect, software developer, and new media innovator. His 1999 book, Practical Internet Groupware, helped lay the foundation for what we now call social software. Udell was formerly a software developer at Lotus, BYTE Magazine's executive editor and Web maven, and an independent consultant.\n\nA hands-on thinker, Udell's analysis of industry trends has always been informed by his own ongoing experiments with software, information architecture, and new media.\n\nFrom 2002 to 2006 he was InfoWorld's lead analyst, author of the weekly Strategic Developer column, and blogger-in-chief. During his InfoWorld tenure he also pioneered the medium now known as screencasting and produced an audio show, Interviews with Innovators.\n\nFrom 2007 to 2014 Udell worked for Microsoft as a writer, interviewer, speaker, and experimental software developer. He created the Elm City calendar network, a service based on open standards that runs in the Windows Azure cloud, and worked on Thali, a P2P technology that enables people to control their online identities and share their data securely.\n\nIn 2015 he joined Hypothesis to help build an open annotation layer for the web.",
+      "name" : "Jon Udell",
+      "id" : "jon-udell"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2016/03/01200222/hypo2-ConvertImage.jpg",
+      "id" : "sheetal-umesh-kumar",
+      "name" : "Sheetal Umesh Kumar",
+      "description" : "Sheetal is a web developer. She likes working on full stack solutions, with an emphasis on client side development. Most recently, she worked at Spotify, on observability dashboards and internal tools. In her spare time she enjoys cooking, crafting and contributing to causes that benefit rescue animals.",
+      "role" : "Developer"
+   },
+   {
+      "name" : "Dan Whaley",
+      "id" : "dan-whaley",
+      "role" : "Founder",
+      "description" : "Dan is a coder and entrepreneur that created the first online travel reservation company on the web (ITN/GetThere) in 1995. He wrote much of the software, launched the business and guided the long term technical and product vision. GetThere went public in 1999 and was sold to Sabre in 2000 with nearly 600 employees while processing approximately 50% of travel transacted online. Dan currently serves as a director of Sauce Labs, the leading open source functional testing company and Getaround, a peer-to-peer car sharing company.  He is a Shuttleworth Fellow.",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04192801/dan-whaley.jpg"
+   },
+   {
+      "role" : "Developer",
+      "description" : "Alice has a background in particle physics. She has previously worked in academia as a researcher, and in the financial industry as a quantitative analyst. As a software developer, she has worked as a web developer writing tools to improve people's finances and automating deployment services. She enjoys being part of projects that have a positive impact on people, and working with a variety of technologies. In her free time she is an amateur musician and producer, LGBTQ rights activist, and loves discovering alternative and independent art.",
+      "name" : "Alice Wyan",
+      "id" : "alice-wyan",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/12/22175041/alice_smile_cafe_closeup.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04202456/gigi-sohn_184x124.jpg",
+      "role" : "Public Knowledge",
+      "description" : "Gigi is the co-founder and president of Public Knowledge, a non-profit dedicated to preserving the publicâ€™s access to knowledge, promoting creativity through balanced copyright, and upholding and protecting the rights of consumers to use innovative technology lawfully. As PKâ€™s chief strategist, fundraiser and public face, she is frequently quoted in the New York Times, Washington Post and Wall Street Journal, as well as in trade and local press and has appeared on numerous television and radio programs, including the Today Show, The McNeil-Lehrer Report, C-SPANâ€™s Washington Journal and National Public Radioâ€™s All Things Considered and Morning Edition. In May 2006, the Electronic Frontier Foundation gave Gigi its Internet â€œPioneerâ€ Award.",
+      "name" : "Gigi Sohn",
+      "id" : "gigi-sohn"
+   },
+   {
+      "name" : "Mikeal Rogers",
+      "id" : "mikeal-rogers",
+      "role" : "Pouch",
+      "description" : "Mikeal is a leading contributor to the open source Node.js project. He currently is involved in a stealth project called Pouch. Previously he was the first employee of CouchOne, a principal of Mitch Kapors Open Source Applications Foundation, and a developer at Mozilla.",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04202304/mikeal-rogers_184x124.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04202213/paul-resnick_184x124.jpg",
+      "name" : "Paul Resnick",
+      "id" : "paul-resnick",
+      "role" : "Univ. of Michigan",
+      "description" : "Few people have more experience with the theory and practice of reputation systems than Paul Resnick. Over the course of his career at the Univ. of Michigan he has helped shape reputation into a mature field of study, and has nurtured a generation of students in the area."
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04201843/rufus-pollock_184x124.jpg",
+      "name" : "Rufus Pollock",
+      "id" : "rufus-pollock",
+      "role" : "Open Knowledge Fdn.",
+      "description" : "Dr. Rufus Pollock is co-Founder and Director of the Open Knowledge Foundation, makers of the open source AnnotateIt bookmarklet. Rufus is also a Shuttleworth Foundation Fellow, and an Associate of the Centre for Intellectual Property and Information Law at the Univ. of Cambridge. He has worked extensively as a scholar and developer on the social, legal and technological issues related to the creation and sharing of knowledge."
+   },
+   {
+      "name" : "Nate Oostendorp",
+      "id" : "nate-oostendorp",
+      "role" : "Slashdot",
+      "description" : "Nate was the technical co-founder of Slashdot, which has become a canonical example of how to do online reputation well. Nate is now the founder of Ingenuitas which intends to open-source the manufacturing process, by building open tools for collaboration around computer vision, data acquisition and robotics.",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04201747/nate-oostendorp_184x124.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04201648/jonathan-nelson_184x124.jpg",
+      "id" : "johnathan-nelson",
+      "name" : "Johnathan Nelson",
+      "description" : "Jonathan is the founder of Hackers and Founders, an organization now with over 15,000 members in cities all around the world that brings together coders, entrepreneurs and innovators. Jonathan has an inspiring vision for how HF can open-source, disrupt and invert the process of forming teams, founding companies, finding capital and learning about everything from coding to business operations. Its inspiring, and it will most definitely change everything about the startup process as we know it.",
+      "role" : "Hackers and Founders"
+   },
+   {
+      "description" : "Nicholas Merrill is the founder of Calyx Internet Access and the Calyx Institute. He was the first person to file a constitutional challenge against the National Security Letters statute in the USA PATRIOT Act. After receiving a National Security Letter NSL from the FBI, he sued the FBI and Department of Justice and became the plaintiff in the historic lawsuit Doe v. Ashcroft, which persisted through four US Attorney Generals and resulted in a precedent setting victory. As a result of the original NSL, Merrill was gagged from speaking publicly for over six years.",
+      "role" : "Calyx Institute",
+      "id" : "nicholas-merrill",
+      "name" : "Nicholas Merrill",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04195306/nicholas-merrill_184x124.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04195211/erik-martin_184x124.jpg",
+      "role" : "Reddit",
+      "description" : "Erik is the General Manager of Reddit, the self-proclaimed â€œfront page of the Internetâ€. Erik took over the reins of Reddit in 2008 from the original founders and has been responsible for managing it through itâ€™s extraordinary growth to one of the largest and most influential web properties in the world, with over 2 billion page views a month as of December 2011. Under Martin's lead, Reddit was instrumental in organizing opposition to proposed SOPA and PIPA antipiracy laws, even going dark in protest along with other sites on Jan. 18.",
+      "name" : "Erik Martin",
+      "id" : "erik-martin"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04195121/andrea_lunsford_184x124_bw.jpg",
+      "id" : "andrea-lunsford",
+      "name" : "Andrea Lunsford",
+      "description" : "Andrea is Stanford Univ.'s Director of the Program in Writing and Rhetoric PWR. During her remarkable career, she has revolutionized the way that college students learn how to write, research, and present arguments. Andrea has served as Chair of the Conference on College Composition and Communication (CCCC), as Chair of the Modern Language Association Division on Writing, and as a member of the MLA Executive Council. Andrea is also the force behind the large-scale Stanford Study of Writing. The longitudinal study that investigated how todays students write by analyzing 14,672 writing samples, including everything from in-class assignments, formal essays, and journal entries to emails, blog posts, and chat sessions.",
+      "role" : "Stanford"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04194825/brewster-kahle_184x124.jpg",
+      "role" : "Internet Archive",
+      "description" : "Brewster studied AI at MIT with Marvin Minsky and Danny Hillis, and later joined Hillis at Thinking Machines where Brewster developed WAIS (sold to AOL). He later founded the early innovator of page rank, Alexa (sold to Amazon), and simultaneously created the Internet Archive, the non-profit archive of the version history of all web pages (and much more). More recently he founded the Open Content Alliance to begin digitizing, archiving and providing open access to the worlds texts.",
+      "name" : "Brewster Kahle",
+      "id" : "brewster-kahle"
+   },
+   {
+      "description" : "Salim has operated seven early stage companies and is a frequent speaker on internet technologies, private equity and entrepreneurship. Salim was the founding Executive Director of Singularity Univ., which is training a new cadre of leaders to manage exponentially growing technologies. Prior to that, Salim was a Vice President at Yahoo and the Head of Brickhouse, Yahoo's internal ideas factory.",
+      "role" : "Singularity U",
+      "id" : "salim-ismael",
+      "name" : "Salim Ismael",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04194727/salim-ismail_184x124.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2013/06/26194312/darian-rodriguez-heyman_184x124.jpg",
+      "name" : "Darian Rodriguez Heyman",
+      "id" : "darian-rodriguez-heyman",
+      "role" : "Nonprofits 101",
+      "description" : "Darian is a widely respected voice in the non-profit and social enterprise world and a highly intuitive thinker around the messaging and framing of issues.  He recently edited Nonprofit Management 101: A Field Guide for Social Sector Professionals, which included contributions from 37 recognized nonprofit leaders."
+   },
+   {
+      "role" : "Sauce Labs / Bittorrent",
+      "description" : "Steve is a long-time contributor to and architect of leading peer-to-peer systems. He is the former Director of Engineering for Bittorrent, and a previous engineer at Audiogalaxy and a contributor to Freenet. Now at Sauce Labs, he leads their effort to bring Selenium, the dominant open-source testing framework, to the cloud.",
+      "name" : "Steve Hazel",
+      "id" : "steve-hazel",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04194404/steven-hazel_184x124_bw.jpg"
+   },
+   {
+      "role" : "MLA / MediaCommons",
+      "description" : "Kathleen Fitzpatrick is Director of Scholarly Communication at the Modern Language Association, and is on leave from a position as Professor of Media Studies at Pomona College, in Claremont, California. She is the author of Planned Obsolescence: Publishing, Technology, and the Future of the Academy, and she is co-founder of the digital scholarly network MediaCommons, an open platform for the scholarly peer-review of books. She is one of the most outspoken and respected voices imagining the reinvention of peer-review in the modern, digital and connected age.",
+      "name" : "Kathleen Fitzpatrick",
+      "id" : "kathleen-fitzpatrick",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04194227/kathleen-fitzpatrick_184x124.jpg"
+   },
+   {
+      "role" : "UC Santa Barbara",
+      "description" : "Jack is one of the foremost experts on the role of stance in language, and how it flows and changes even within the same conversations. Stance is the position we take relative to external things, and particularly how we align ourselves with respect to others in doing so. Stance is central to language, and is one of the most important components of the approach we will take with Hypothes.is.",
+      "name" : "John W. DuBois",
+      "id" : "john-w.-dubois",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04194114/jack-dubois-184x124.jpg"
+   },
+   {
+      "description" : "Philip is the co-founder and Editor-in-Chief of the open access journal PLoS Computational Biology. Philip has recently launched the Beyond the PDF initiative to develop a mandate, open source code and a set of deliverables to be used by scholars to accelerate data and knowledge sharing and discovery. He is a Past President of the International Society for Computational Biology, and an elected fellow of the American Association for the Advancement of Science (AAAS).",
+      "role" : "UC San Diego / PLoS",
+      "id" : "phil-bourne",
+      "name" : "Phil Bourne",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04193848/phil-bourne_184x124_bw.jpg"
+   },
+   {
+      "id" : "jeff-atwood",
+      "name" : "Jeff Atwood",
+      "description" : "Jeff co-founded Stackexchange, a question-and-answer network that is collaboratively built and maintained by users, and is one of the most well-known and highly trafficked sites on the Internet. The site utilizes an earnable privileges reputation system, with the ultimate goal of the site being to cull good answers â€œto every imaginable programming question.â€ Jeff began his professional efforts in technology as a software developer, working various implementations of Microsoft's BASIC in the 1980â€™s. Fascinated by the human side of software development, Jeff blogs about just that and more on his popular blog Coding Horror.",
+      "role" : "Stackexchange",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04193413/jeff-atwood_184x124.jpg"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04192801/dan-whaley.jpg",
+      "id" : "dan-whaley",
+      "name" : "Dan Whaley",
+      "description" : "Dan is a coder and entrepreneur that created the first online travel reservation company on the web (ITN/GetThere) in 1995. He wrote much of the software, launched the business and guided the long term technical and product vision. GetThere went public in 1999 and was sold to Sabre in 2000 with nearly 600 employees while processing approximately 50% of travel transacted online. Dan currently serves as a director of Sauce Labs, the leading open source functional testing company and Getaround, a peer-to-peer car sharing company.  He is a Shuttleworth Fellow.",
+      "role" : "Founder"
+   },
+   {
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2013/02/08011518/gerrypercy.png",
+      "description" : "Gerry comes from a creative background, having attended UC Santa Cruz for a degree in Music, and studied improvisation at the Creative Music Studio in New York. In 1980 he co-founded the successful juice company Odwalla, which went public and was subsequently purchased by Coca Cola. Gerry has since retired from the business and returned to his creative roots. He is currently Executive Producer for a documentary feature now in development.",
+      "role" : "Treasurer",
+      "id" : "gerry-percy",
+      "name" : "Gerry Percy"
+   },
+   {
+      "id" : "john-perry-barlow",
+      "name" : "John Perry Barlow",
+      "description" : "John Perry is a retired Wyoming cattle rancher and former lyricist for the Grateful Dead. In 1990 he and Mitch Kapor founded the Electronic Frontier Foundation (EFF), an organization that fights for the rights of citizens in the digital world. He currently serves as its Vice Chairman. Since 1998, he has been a fellow at Harvard Law School's Berkman Center for Internet and Society. His widely distributed manifesto, A Declaration of the Independence of Cyberspace, can be found on more than 20,000 web sites.",
+      "role" : "Secretary",
+      "photoUrl" : "https://d242fdlp0qlcia.cloudfront.net/uploads/2012/12/04193527/john-perry-barlow_184x124.jpg"
+   }
+]
