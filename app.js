@@ -2,6 +2,7 @@
 var TEAM_CHANGED = 'TEAM_CHANGED';
 var SET_FILTER = 'SET_FILTER';
 var LIKE_MEMBER = 'LIKE_MEMBER';
+var FOCUS_MEMBER = 'FOCUS_MEMBER';
 
 /** Update the state of the app when a given `action` occurs. */
 function update(state, action) {
@@ -14,11 +15,14 @@ function update(state, action) {
       return Object.assign({}, state, {
         likedMembers: state.likedMembers.concat(action.member),
       });
+    case FOCUS_MEMBER:
+      return Object.assign({}, state, {focusedMember: action.member});
     default:
       return {
         team: [],
         filter: '',
         likedMembers: [],
+        focusedMember: null,
       };
   }
 }
@@ -75,9 +79,60 @@ function MemberList(props) {
   </ul>
 }
 
+/** Render a thumbnail of a team member. */
+function MemberIcon(props) {
+  return <a href=""
+    onClick={e => {e.preventDefault(); props.onClick()}}
+    className="member-thumbnail">
+    <img className="member-thumbnail__img" src={props.photoUrl}/>
+    <div className="member-thumbnail__caption">
+      <div className="member-thumbnail__name">{props.name}</div>
+      <div className="member-thumbnail__description">{props.role}</div>
+    </div>
+  </a>;
+}
+
+/**
+ * Render a scrollable list of Hypothesis team members' thumbnails with
+ * a card below the member showing the selected member's full details.
+ */
+function MemberCarousel(props) {
+  var matches = sortAndFilterTeam(props.filter, props.team);
+  var focusedMember = props.team.find(m => m.id === props.focusedMember);
+
+  return (
+    <div>
+      <div className="member-carousel">
+      {matches.map(member => (
+        <MemberIcon
+          key={member.id}
+          isLiked={props.likedMembers.includes(member.id)}
+          name={member.name}
+          role={member.role}
+          photoUrl={member.photoUrl}
+          onClick={() => props.dispatch({type: FOCUS_MEMBER, member: member.id})}
+          />
+      ))}
+      </div>
+      {focusedMember ?
+        <MemberDetails
+          key={focusedMember.id}
+          isLiked={props.likedMembers.includes(focusedMember.id)}
+          name={focusedMember.name}
+          description={focusedMember.description}
+          photoUrl={focusedMember.photoUrl}
+          role={focusedMember.role}
+          onLike={() => props.dispatch({type: LIKE_MEMBER, member: focusedMember.id})}/>
+      : null}
+    </div>);
+}
+
 /** The root of our UI */
 function App(props) {
   var {state, dispatch} = props;
+
+  // Select the type of view to use for our list
+  var MemberListView = MemberCarousel;
 
   return <div className="app">
     <h1 className="title">Die Hypothesis Team</h1>
@@ -85,11 +140,12 @@ function App(props) {
       placeholder="Filter..."
       onInput={e => dispatch({type: SET_FILTER, filter: e.target.value})}
     />
-    <MemberList
+    <MemberListView
       filter={state.filter}
       team={state.team}
       likedMembers={state.likedMembers}
       dispatch={store.dispatch}
+      focusedMember={state.focusedMember}
     />
   </div>;
 }

@@ -83,8 +83,51 @@ body {
   list-style: none;
 }
 
-.like-btn {
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bot%C3%B3n_Me_gusta.svg/200px-Bot%C3%B3n_Me_gusta.svg.png');
-
-
+.member-carousel {
+  margin-top: 10px;
+  padding-top: 5px;
+  background: #eee;
+  border-bottom: 1px solid #ddd;
+  overflow-x: scroll;
+  white-space: nowrap;
 }
+
+.member-thumbnail {
+  position: relative;
+  display: inline-block;
+  margin-right: 5px;
+  height: 140px;
+}
+
+.member-thumbnail__img {
+  width: 175px;
+  height: 120px;
+  transition: filter .3s, transform .3s;
+}
+
+.member-thumbnail__img:hover {
+  filter: brightness(1.2);
+}
+
+.member-thumbnail__name {
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 5px;
+}
+
+.member-thumbnail__description {
+  line-height: 20px;
+}
+
+.member-thumbnail__caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255,255,255,0.8);
+  font-size: 11px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow: hidden;
+}
+

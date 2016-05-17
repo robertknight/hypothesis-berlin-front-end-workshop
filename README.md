@@ -4,14 +4,15 @@ This is a demo app made for the front-end architecture workshop at Hypothesis'
 developers May 2016 meeting in Berlin.
 
 This is a simple app intended to show several of the main concepts behind
-modern front-end architecture, which are intended to make it possible to write
-sophisticated applications that are:
+[Elm](http://elm-lang.org/)-style front-end architectures, which are intended to make it possible to write
+client applications that are:
 
  * Reliable
  * Fast
  * Easy to extend
  * Easy to test
- * Support architecture and/or code re-use across multiple environments
+ * Support architecture (and _some_ code) re-use across multiple environments (app in the browser,
+   Node.js on the server, native mobile app)
 
 These concepts include:
 
