@@ -135,7 +135,7 @@ function App(props) {
   var MemberListView = MemberCarousel;
 
   return <div className="app">
-    <h1 className="title">Die Hypothesis Team</h1>
+    <h1 className="title">The Hypothesis Team</h1>
     <input 
       placeholder="Filter..."
       onInput={e => dispatch({type: SET_FILTER, filter: e.target.value})}
